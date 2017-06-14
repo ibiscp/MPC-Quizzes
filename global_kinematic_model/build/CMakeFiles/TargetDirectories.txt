@@ -1,0 +1,3 @@
+/home/ibiscp/Desktop/CarND-MPC-Quizzes/global_kinematic_model/build/CMakeFiles/edit_cache.dir
+/home/ibiscp/Desktop/CarND-MPC-Quizzes/global_kinematic_model/build/CMakeFiles/rebuild_cache.dir
+/home/ibiscp/Desktop/CarND-MPC-Quizzes/global_kinematic_model/build/CMakeFiles/global_kinematic_model.dir
